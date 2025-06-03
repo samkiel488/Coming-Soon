@@ -53,6 +53,9 @@ header {
   display: inline;
 }
 
+a {
+  text-decoration: none;
+}
 
 .logo a {
   font-family: 'Playfair Display', serif;
